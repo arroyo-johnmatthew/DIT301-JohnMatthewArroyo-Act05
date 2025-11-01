@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteKeeperApp</string>
+    <string name="add_note">Add Note</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>
